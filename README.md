@@ -27,7 +27,7 @@ The **Black-Scholes equation**, a second-order PDE known for its use in financia
 ### 🧬 Tumor-Immune System Models
 - **Core Model (Tarynn Witten)**: Tumor vs. normal cells with logistic growth
 - **Enhanced Model**:
-  - Adds Effector cells, IL-2, and virus dynamics
+  - Adds effector cells, IL-2, and virus dynamics
   - Tumor growth stabilizes with effector intervention
   - Normal cells dominate long-term under immune stimulation
 
