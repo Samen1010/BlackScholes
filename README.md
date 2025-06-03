@@ -58,7 +58,6 @@ Quorum-sensing based clustering
 GBM time-independent PDE behavior
 
 📚 Citations & Inspiration
-Black-Scholes
 
 Lawrence Wein's GBM cytotoxic treatment model
 
