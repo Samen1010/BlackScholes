@@ -48,9 +48,7 @@ The **Black-Scholes equation**, a second-order PDE known for its use in financia
 ---
 
 ## 📊 Visualizations
-
-Check the [`graphs/`](./graphs) folder for visual outputs of each model:
-
+Attached are the images of the general models in graphs
 - Tumor vs. Normal cell growth
 - Predator-prey bacterial interactions
 - Quorum-sensing based clustering
